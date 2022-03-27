@@ -22,9 +22,14 @@ p{
 }
 
 #cabecera{
+    display: flex;
     border-bottom: 1px solid black;
 }
 h1{
     margin: 10px 20px;
     font-size: 50px;
+}
+
+.logo{
+    width: 75px;
 }
